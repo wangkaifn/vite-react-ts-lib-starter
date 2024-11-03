@@ -2,6 +2,18 @@
   "name": "vite-react-ts-lib-starter",
   "version": "0.0.0",
   "private": true,
+  "bugs": {
+    "url": "https://github.com/wangkaifn/vite-react-ts-lib-starter.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangkaifn/vite-react-ts-lib-starter.git"
+  },
+  "author": {
+    "name": "阿凯",
+    "email": "wangkaif2e@gmail.com",
+    "url": "https://github.com/wangkaifn"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc -b && vite build",

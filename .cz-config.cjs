@@ -1,33 +1,33 @@
 module.exports = {
   // type 类型（定义之后，可通过上下键选择）
   types: [
-    { value: 'feat', name: 'feat:     新增功能' },
-    { value: 'fix', name: 'fix:      修复 bug' },
-    { value: 'perf', name: 'perf:     性能优化' },
+    { value: 'feat', name: 'feat: ✨ 新增功能' },
+    { value: 'fix', name: 'fix: 🐛 修复 bug' },
+    { value: 'perf', name: 'perf: ⚡️ 性能优化' },
     {
       value: 'style',
-      name: 'style:    代码格式（不影响功能，例如空格、分号等格式修正）',
+      name: 'style: 💄 代码格式（不影响功能，例如空格、分号等格式修正）',
     },
-    { value: 'docs', name: 'docs:     文档变更' },
-    { value: 'test', name: 'test:     添加、修改测试用例' },
+    { value: 'docs', name: 'docs: 📚 文档变更' },
+    { value: 'test', name: 'test: ✅ 添加、修改测试用例' },
     {
       value: 'refactor',
-      name: 'refactor: 代码重构（不包括 bug 修复、功能新增）',
+      name: 'refactor: ♻️ 代码重构（不包括 bug 修复、功能新增）',
     },
     {
       value: 'build',
-      name: 'build:    构建流程、外部依赖变更（如升级 npm 包、修改 webpack 配置等）',
+      name: 'build: 🏗️ 构建流程、外部依赖变更（如升级 npm 包、修改 webpack 配置等）',
     },
-    { value: 'ci', name: 'ci:       修改 CI、项目配置、脚本' },
+    { value: 'ci', name: 'ci: 🎡 修改 CI、项目配置、脚本' },
     {
       value: 'chore',
-      name: 'chore:    对构建过程或辅助工具和库的更改（不影响源文件、测试用例）',
+      name: 'chore: 🔧 对构建过程或辅助工具和库的更改（不影响源文件、测试用例）',
     },
-    { value: 'revert', name: 'revert:   回滚 commit' },
-    { value: 'wip', name: 'wip:      正在开发中' },
-    { value: 'workflow', name: 'workflow: 调整工作流' },
-    { value: 'types', name: 'types:    更新typescript类型' },
-    { value: 'release', name: 'release:  发布新版本' },
+    { value: 'revert', name: 'revert: ⏪️ 回滚 commit' },
+    { value: 'wip', name: 'wip: 🚧 正在开发中' },
+    { value: 'workflow', name: 'workflow: 🔄 调整工作流' },
+    { value: 'types', name: 'types: 🛠️ 更新 TypeScript 类型' },
+    { value: 'release', name: 'release: 🚀 发布新版本' },
   ],
 
   // scope 类型（定义之后，可通过上下键选择）
