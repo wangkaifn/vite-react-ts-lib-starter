@@ -1,3 +1,5 @@
+@import url('./variables');
+
 @mixin font-size-header-6 {
   font-size: 16px;
   line-height: 22px;
@@ -111,8 +113,8 @@
     sans-serif;
 }
 @mixin font-size-regular {
-  font-size: 14px;
-  line-height: 20px;
+  font-size: $font-size-regular;
+  line-height: $line-height-regular;
   font-family:
     'Inter',
     -apple-system,
