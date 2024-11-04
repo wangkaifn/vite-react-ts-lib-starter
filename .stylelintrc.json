@@ -22,6 +22,7 @@
     "selector-max-id": 1,
     "order/properties-alphabetical-order": null,
     "color-named": null,
+    "selector-no-qualifying-type": null,
     "order/properties-order": [
       "position",
       "top",
