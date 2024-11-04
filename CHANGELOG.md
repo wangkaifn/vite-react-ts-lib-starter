@@ -1,4 +1,4 @@
-# 0.0.0 (2024-11-03)
+## [0.0.1](https://github.com/wangkaifn/vite-react-ts-lib-starter/compare/9691937c8205dfd903fd0105d0a135ea891033cf...v0.0.1) (2024-11-03)
 
 ### Bug Fixes
 
